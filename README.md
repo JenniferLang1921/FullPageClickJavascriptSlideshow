@@ -6,7 +6,7 @@
 
 * Javascript
 
-https://jenniferlang1921.github.io/fullpageclickjavascriptslideshow/
+https://jenniferlang1921.github.io/FullPageClickJavascriptSlideshow/
 
 
 ![Image of slideshow](/images/screenshot_slideshow.png)
