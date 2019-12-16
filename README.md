@@ -9,4 +9,4 @@
 https://jenniferlang1921.github.io/FullPageClickJavascriptSlideshow/
 
 
-![Image of slideshow](/images/screenshot_slideshow.png)
+![Image of slideshow](/assets/screenshot_slideshow.png)
